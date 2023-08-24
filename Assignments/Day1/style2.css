@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.card{
+    font: 400 14px/20px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    font-family: Roboto,Arial,sans-serif;
+    width: 450px;
+    line-height: 1.25rem;
+    font-size: .875rem;
+    letter-spacing: .0142857143em;
+    font-weight: 400;
+    margin: 20px auto;
+    padding: 5px 5px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-radius: solid 1px lightgray;
+}
+.card-space{
+    padding: 25px 25px;
+}
+.card-inner{
+    width: 100%;
+    color: black;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+.card-profile{
+    width: 100%;
+    border: solid 1px lightgray;
+    border-width: 1px 0px 0px 0px;
+    font-size: 18px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: rgb(26,115,232);
+    font-weight: 500;
+}
+.card-inner h4{
+    font-size: 28px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.card-inner p{
+    color: rgb(96, 95, 95);
+}
+.card-images img{
+    width: 70px;
+    height: 70px;
+    margin: 40px;
+    border-radius: 50%;
+}
+    
